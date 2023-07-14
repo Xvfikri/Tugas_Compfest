@@ -1,0 +1,9 @@
+.sidebarlink:hover{
+    background-color:#201e73;
+    font-weight:bold;
+}
+
+.navbar{
+    right:0;
+    left:225px
+}
